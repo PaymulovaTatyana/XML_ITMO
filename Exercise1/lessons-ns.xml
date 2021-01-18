@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
-<myns:TimeTable xmnls:myns='http://www.itmo.ru/xml/lessons'>
+<myns:lessons xmlns:myns='http://www.itmo.ru/xml/lessons'>
 <myns:lessons>
 	<myns:lesson id = "a">
 		<myns:LessonName>Разработка Windows-приложений на С#</myns:LessonName>
@@ -22,11 +22,11 @@
 		<myns:ProfName>Никита</myns:ProfName>
 		<myns:ProfLastName>Осипов</myns:ProfLastName>
 		<myns:ProfPatronymicName>Алексеевич</myns:ProfPatronymicName>
-		<myns:StartDateEducation>25.01.2021</Smyns:tartDateEducation>
+		<myns:StartDateEducation>25.01.2021</myns:StartDateEducation>
 		<myns:FinishDateEducation>05.02.2021 </myns:FinishDateEducation>
 	</myns:lesson>
 </myns:lessons>
-</myns:myns:TimeTable>
+</myns:lessons>
 
 
 

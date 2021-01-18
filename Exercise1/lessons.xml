@@ -1,6 +1,6 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
 <lessons>
-	<lesson id = "a">
+	<lesson>
 		<LessonName>Разработка Windows-приложений на С#</LessonName>
 		<ProfName>Антон</ProfName>
 		<ProfLastName>Смольянинов</ProfLastName>
@@ -8,7 +8,7 @@
 		<StartDateEducation>21.12.2020</StartDateEducation>
 		<FinishDateEducation>15.01.2021 </FinishDateEducation>		
 	</lesson>
-	<lesson id = "b">
+	<lesson>
 		<LessonName>Основы технологий разметки HTML, XML</LessonName>
 		<ProfName>Антон</ProfName>
 		<ProfLastName>Смольянинов</ProfLastName>
@@ -16,7 +16,7 @@
 		<StartDateEducation>18.01.2021</StartDateEducation>
 		<FinishDateEducation>22.01.2021 </FinishDateEducation>
 	</lesson>
-	<lesson id = "c">
+	<lesson >
 		<LessonName>Прошраммирование на Python</LessonName>
 		<ProfName>Никита</ProfName>
 		<ProfLastName>Осипов</ProfLastName>

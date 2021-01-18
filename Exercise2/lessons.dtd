@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!ELEMENT lessons (lesson*)>
+<!ELEMENT lesson (LessonName, ProfName, ProfLastName, ProfPatronymicName, StartDateEducation, FinishDateEducation)> 
+<!ELEMENT LessonName (#PCDATA)> 
+<!ELEMENT ProfName (#PCDATA)> 
+<!ELEMENT ProfLastName (#PCDATA)> 
+<!ELEMENT ProfPatronymicName (#PCDATA)> 
+<!ELEMENT StartDateEducation (#PCDATA)> 
+<!ELEMENT FinishDateEducation (#PCDATA)>

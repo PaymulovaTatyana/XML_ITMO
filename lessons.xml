@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<lessons>
+	<lesson id = "a">
+		<LessonName>Разработка Windows-приложений на С#</LessonName>
+		<ProfName>Антон</ProfName>
+		<ProfLastName>Смольянинов</ProfLastName>
+		<ProfPatronymicName>Валентинович</ProfPatronymicName>
+		<StartDateEducation>21.12.2020</StartDateEducation>
+		<FinishDateEducation>15.01.2021 </FinishDateEducation>		
+	</lesson>
+	<lesson id = "b">
+		<LessonName>Основы технологий разметки HTML, XML</LessonName>
+		<ProfName>Антон</ProfName>
+		<ProfLastName>Смольянинов</ProfLastName>
+		<ProfPatronymicName>Валентинович</ProfPatronymicName>
+		<StartDateEducation>18.01.2021</StartDateEducation>
+		<FinishDateEducation>22.01.2021 </FinishDateEducation>
+	</lesson>
+	<lesson id = "c">
+		<LessonName>Прошраммирование на Python</LessonName>
+		<ProfName>Никита</ProfName>
+		<ProfLastName>Осипов</ProfLastName>
+		<ProfPatronymicName>Алексеевич</ProfPatronymicName>
+		<StartDateEducation>25.01.2021</StartDateEducation>
+		<FinishDateEducation>05.02.2021 </FinishDateEducation>
+	</lesson>
+</lessons>
+
+
+

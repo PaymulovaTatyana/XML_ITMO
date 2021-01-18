@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:TimeTable xmnls:myns='http://www.itmo.ru/xml/lessons'>
+<myns:lessons>
+	<myns:lesson id = "a">
+		<myns:LessonName>Разработка Windows-приложений на С#</myns:LessonName>
+		<myns:ProfName>Антон</myns:ProfName>
+		<myns:ProfLastName>Смольянинов</myns:ProfLastName>
+		<myns:ProfPatronymicName>Валентинович</myns:ProfPatronymicName>
+		<myns:StartDateEducation>21.12.2020</myns:StartDateEducation>
+		<myns:FinishDateEducation>15.01.2021 </myns:FinishDateEducation>		
+	</myns:lesson>
+	<myns:lesson id = "b">
+		<myns:LessonName>Основы технологий разметки HTML, XML</myns:LessonName>
+		<myns:ProfName>Антон</myns:ProfName>
+		<myns:ProfLastName>Смольянинов</myns:ProfLastName>
+		<myns:ProfPatronymicName>Валентинович</myns:ProfPatronymicName>
+		<myns:StartDateEducation>18.01.2021</myns:StartDateEducation>
+		<myns:FinishDateEducation>22.01.2021 </myns:FinishDateEducation>
+	</myns:lesson>
+	<myns:lesson id = "c">
+		<myns:LessonName>Прошраммирование на Python</myns:LessonName>
+		<myns:ProfName>Никита</myns:ProfName>
+		<myns:ProfLastName>Осипов</myns:ProfLastName>
+		<myns:ProfPatronymicName>Алексеевич</myns:ProfPatronymicName>
+		<myns:StartDateEducation>25.01.2021</Smyns:tartDateEducation>
+		<myns:FinishDateEducation>05.02.2021 </myns:FinishDateEducation>
+	</myns:lesson>
+</myns:lessons>
+</myns:myns:TimeTable>
+
+
+
